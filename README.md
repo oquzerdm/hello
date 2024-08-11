@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/oquzerdm](https://github.com/oquzerdm)
 
-- 📝 I regularly write articles on [polimats.com/oquzerdm](polimats.com/oquzerdm)
+- 📝 I regularly write articles on [here](polimats.com/oquzerdm)
 
 - 💬 Ask me about **tech, crypto & finance**
 
